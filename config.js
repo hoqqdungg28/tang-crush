@@ -1,19 +1,16 @@
 const CONFIG = {
-    introTitle: 'Em à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introTitle: 'Văn Thanh Phương!',
+    introDesc: `GỬI CHÀNG TRAI HAY DỖI CỦA TOI>>`,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    title: ' HÔM NAY EM CÓ ĐIỀU MUỐN NÓI <<HIHI>>',
+    desc: 'KHÔNG BIẾT ANH CÓ MUỐN NGHE KHÔNG???',
+    btnYes: 'Không nghe buộc phải nghe',
+    btnNo: 'Không, không bao giờ à :3',
+    question:' Vì sao anh lại yêu em trong khi em chẳng xinh đẹp hơn ai cũng chẳng tài giỏi gì mấy=((',
+    btnReply: 'Hãy gửi tín hiệu này đến cho em <3',
+    reply: 'Vì em là người đặt biệt  <33333333',
+    mess: 'Xin loi anh nhiều vì nhưng lúc em nóng giận làm anh buồn. Thay vì trách móc thì anh giận nguợc lại em ???',
+    messDesc: 'Qua đó chúng ta có thể hiểu nhau hơn. Yêu nhau nhiều hơn Anh nhé!! ',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/nguyensu5120/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
