@@ -1,19 +1,16 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introTitle: 'VĂN THANH PHƯƠNG!',
+    introDesc: `GỬI ĐẾN CHÀNG TRAI HAY DỖI CỦA TÔI`,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    title: 'HÔM NAY EM CÓ ĐIỀU MUỐN NÓI😙',
+    desc: 'KHÔNG BIẾT ANH CÓ MUỐN NGHE HAY KHÔNG??? ',
+    btnYes: 'Không nghe buộc phải nghe=))',
+    btnNo: 'Không, không bao giờ=((',
+    question:'Vì sao Anh lại yêu Em trong khi Em chẳng xinh đẹp hơn ai cũng chẳng tài giỏi gì mấy',
+    btnReply: 'Hãy gửi tín hiệu này đến cho em <3',
+    reply: 'VÌ EM LUÔN LÀ NGƯỜI ĐẶT BIỆT <33333333',
+    mess: 'Xin loi nhiều vì những kusc em nóng giận làm anh buồn << thay vì trách móc anh lại dỗi ngược lại em >>>',
+    messDesc: 'Qua  đó chúng ta có thể hiểu nhau hơn. Cùng nhau cố gắng>> Yêu nhau nhiều hơn anh nhé!!',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/pt.hoqqdung.28' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
